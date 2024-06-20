@@ -1,5 +1,5 @@
 
-public class Sprite {
+public class sprite {
 
         private int x;
         private int y;

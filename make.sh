@@ -1,4 +1,4 @@
-javac Sprite.java
-javac Game.java
+javac sprite.java
+javac game.java
 
-java Game
+java game
